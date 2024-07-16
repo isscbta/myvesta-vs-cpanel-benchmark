@@ -1,4 +1,4 @@
-# Benchmarking WordPress Hosting Environments: A Comprehensive Guide
+# Benchmarking WordPress Hosting Environments
 
 ## Introduction
 
