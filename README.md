@@ -6,6 +6,10 @@ Welcome to our GitHub repository where we explore the performance of various Wor
 In this comprehensive benchmark study, we've analyzed the **responsiveness, reliability, and efficiency** of five distinct server setups using a variety of WordPress themes.  
 Our aim is to provide insights that help developers and website owners make informed decisions when choosing a hosting environment for their WordPress sites.
 
+## 📊 Graphs
+
+![Average TTFB](graphs/averagettfb.png)
+
 ---
 
 ## ⚙️ Server Configurations Tested
